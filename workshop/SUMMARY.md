@@ -1,0 +1,18 @@
+# Table of contents
+
+* [General Immersion Day - WorkShop](README.md)
+* [VPC](vpc/README.md)
+  * [1. Create VPC & Subnets](vpc/1.-create-vpc-and-subnets.md)
+  * [2. Create Private VPC](vpc/2.-create-private-vpc.md)
+  * [3. Create Test Environment](vpc/3.-create-test-environment/README.md)
+    * [3.1 Instance Connection Test (.ppk)](vpc/3.-create-test-environment/3.1-instance-connection-test-.ppk.md)
+    * [3.2 Instance Connection Test (.pem)](vpc/3.-create-test-environment/3.2-instance-connection-test-.pem.md)
+    * [3.3 Ping Test](vpc/3.-create-test-environment/3.3-ping-test.md)
+  * [4. Create peering connection](vpc/4.-create-peering-connection.md)
+* [S3](s3/README.md)
+  * [1. Create S3 bucket](s3/1.-create-s3-bucket.md)
+  * [2. Add Objects](s3/2.-add-objects.md)
+  * [3. Configure static web hosting](s3/3.-configure-static-web-hosting.md)
+  * [4.Edit Bucket Policy](s3/4.edit-bucket-policy.md)
+  * [5. Enable Versioning](s3/4.-enable-versioning.md)
+  * [6. Create CloudFront](s3/5.-create-cloudfront.md)
