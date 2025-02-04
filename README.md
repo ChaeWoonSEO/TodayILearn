@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_93 TILs and counting..._
+_95 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [P99 Latency](Aws/CW_P99_latency.md) - Thu Jun 29 15:22:08 2023 +0900
 - [Security 관련 문제 풀이](SAA/Sec.md) - Tue Jun 27 15:06:02 2023 +0900
-- [Network 관련 문제 풀이](SAA/Net.md) - Tue Jun 27 15:06:02 2023 +0900
 
 ### Categories
 
@@ -45,6 +45,7 @@ _93 TILs and counting..._
 - [CF 몰랐던점 정리](Aws/CF-Ticket-study.md)
 - [CI 란?](Aws/CI-CD.md)
 - [CICD 관련 계획](Aws/CICD_Build.md)
+- [P99 Latency](Aws/CW_P99_latency.md)
 - [AWS 아키텍쳐 구축 유의사항](Aws/Construct_Architecture.md)
 - [도메인 주도 설계](Aws/DDD.md)
 - [Installing Docker in EC2](Aws/EC2-DockerInstall.md)
@@ -58,6 +59,7 @@ _93 TILs and counting..._
 - [WAF Immersion Day](Aws/WAF-ImmersionDay.md)
 - [SDK(소프트웨어 개발 키트, Software Development Kit)란?](Aws/WhatSDK.md)
 - [CloudFront](Aws/cf.md)
+- [terraform migration](Aws/migration.md)
 - [test 문제](Aws/test.md)
 - [transit gateway](Aws/transitgw.md)
 
